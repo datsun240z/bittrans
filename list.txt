@@ -1,0 +1,9 @@
+[{'files': [{'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/Sample/family.guy.s12e15.hdtv.x264-excellence.sample.mp4', 'length': 3538862, 'bytesCompleted': 3538862},
+            {'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.nfo', 'length': 1048, 'bytesCompleted': 1048},
+            {'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.r01', 'length': 15000000, 'bytesCompleted': 15000000},
+            {'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.r02', 'length': 15000000, 'bytesCompleted': 15000000},
+            {'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.r00', 'length': 15000000, 'bytesCompleted':15000000},
+            {'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.r03', 'length': 8917956, 'bytesCompleted': 8917956},
+            {'name':'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.rar', 'length': 15000000, 'bytesCompleted': 15000000},
+            {'name': 'Family.Guy.S12E15.HDTV.x264-EXCELLENCE/family.guy.s12e15.hdtv.x264-excellence.sfv', 'length': 265, 'bytesCompleted': 265}
+], 'id': 94, 'isFinished': False}] 
